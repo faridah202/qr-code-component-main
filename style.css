@@ -1,8 +1,6 @@
 body {
     font-family: outfit, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: hsl(212, 45%, 89%);
-    height: 100vh;
-    width: 100%;
     margin: 0;
     padding: 0;
     display: flex;
